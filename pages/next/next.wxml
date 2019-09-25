@@ -1,0 +1,9 @@
+<!--pages/next/next.wxml-->
+
+<view class="container">
+  <view class="movable-view">
+    <movable-custom-view show="{{true}}" moveViewHeight="100%" moveViewX="{{moveViewLeft}}" moveViewY="{{moveViewTop}}">
+      <image src="{{imgSrc}}" mode="widthFix"></image>
+    </movable-custom-view>
+  </view>
+</view>

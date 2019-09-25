@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "movable-custom-view": "/components/movable-custom-view/movable-custom-view"
+  }
+}

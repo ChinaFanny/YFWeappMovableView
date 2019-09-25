@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap="onClick">Click Me</button>
+</view>
