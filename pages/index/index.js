@@ -12,7 +12,8 @@ Page({
       url: '../next/next'
     })
   },
+  
   onLoad: function () {
     
-  }
+  },
 })
